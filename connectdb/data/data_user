@@ -1,0 +1,7 @@
+﻿{firstName: 'Trần', lastName: 'Tuấn Anh', id_slack: 'U2BEM5DPD', userName:'anhtt', sex: 'male', birthDay: '1989-10-10', email: 'anhtt@vets.com.vn', group: 1, role: '1', last_checkin: d, last_checkout: d},
+
+{firstName: 'Nguyễn', lastName: 'Thái Dương', id_slack: 'U34E1P4RK', userName:'duongnt', sex: 'male',birthDay: '1992-05-08', email: 'duongnt@vets.com.vn', group: 1, role: '0', last_checkin: d, last_checkout: d},
+
+{firstName: 'Nguyễn', lastName: 'Phú Bình', id_slack: 'U1Z33CAGH', userName:'binhnp', sex: 'male', birthDay: '1991-01-10',email: 'binhnp@vets.com.vn', group: 1, role: '0', last_checkin: d, last_checkout: d},
+
+{firstName: 'Lê', lastName: 'Thị Lụa', userName:'lualt', id_slack: 'U35L2KG22', birthDay: '1995-10-30',email: 'lualt@vets.com.vn',sex: 'female', group: 1, role: '0', last_checkin: d, last_checkout: d}
